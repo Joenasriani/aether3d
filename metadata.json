@@ -1,0 +1,5 @@
+{
+  "name": "Aether3D Asset Generator",
+  "description": "An AI-powered 3D asset generator that creates textured 3D models from text descriptions using Gemini. Features include quality control, texture generation, and multi-format export.",
+  "requestFramePermissions": []
+}
